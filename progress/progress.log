@@ -1,0 +1,1529 @@
+
+C:\Users\pixin\Desktop\CS242\sp21-cs242-assignment2\src>python main.py scrape --new --start_url https://www.goodreads.com/book/show/3735293-clean-code
+
+
+
+
+ 0 / 200 - Scraping https://www.goodreads.com/book/show/3735293-clean-code
+========================================================================================================================
+Currently recorded 1 books, and 1 authors.
+
+
+
+
+ 1 / 200 - Scraping https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer
+========================================================================================================================
+Currently recorded 2 books, and 2 authors.
+
+
+
+
+ 2 / 200 - Scraping https://www.goodreads.com/book/show/85009.Design_Patterns
+========================================================================================================================
+Currently recorded 3 books, and 3 authors.
+
+
+
+
+ 3 / 200 - Scraping https://www.goodreads.com/book/show/44936.Refactoring
+========================================================================================================================
+Currently recorded 4 books, and 4 authors.
+
+
+
+
+ 4 / 200 - Scraping https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns
+========================================================================================================================
+Currently recorded 5 books, and 5 authors.
+
+
+
+
+ 5 / 200 - Scraping https://www.goodreads.com/book/show/4845.Code_Complete
+========================================================================================================================
+Currently recorded 6 books, and 6 authors.
+
+
+
+
+ 6 / 200 - Scraping https://www.goodreads.com/book/show/34927404-effective-java
+========================================================================================================================
+Currently recorded 7 books, and 7 authors.
+
+
+
+
+ 7 / 200 - Scraping https://www.goodreads.com/book/show/387190.Test_Driven_Development
+========================================================================================================================
+Currently recorded 8 books, and 8 authors.
+
+
+
+
+ 8 / 200 - Scraping https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code
+========================================================================================================================
+Currently recorded 9 books, and 9 authors.
+
+
+
+
+ 9 / 200 - Scraping https://www.goodreads.com/book/show/179133.Domain_Driven_Design
+========================================================================================================================
+Currently recorded 10 books, and 10 authors.
+
+
+
+
+ 10 / 200 - Scraping https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 11 books, and 11 authors.
+
+
+
+
+ 11 / 200 - Scraping https://www.goodreads.com/book/show/23215733-the-software-craftsman
+========================================================================================================================
+Currently recorded 12 books, and 12 authors.
+
+
+
+
+ 12 / 200 - Scraping https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month
+========================================================================================================================
+Currently recorded 13 books, and 13 authors.
+
+
+
+
+ 13 / 200 - Scraping https://www.goodreads.com/book/show/22512931-building-microservices
+========================================================================================================================
+Currently recorded 14 books, and 14 authors.
+
+
+
+
+ 14 / 200 - Scraping https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice
+========================================================================================================================
+Currently recorded 15 books, and 15 authors.
+
+
+
+
+ 15 / 200 - Scraping https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained
+========================================================================================================================
+Author already recorded.
+Currently recorded 16 books, and 15 authors.
+
+
+
+
+ 16 / 200 - Scraping https://www.goodreads.com/book/show/2998152-javascript
+========================================================================================================================
+Currently recorded 17 books, and 16 authors.
+
+
+
+
+ 17 / 200 - Scraping https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests
+========================================================================================================================
+Currently recorded 18 books, and 17 authors.
+
+
+
+
+ 18 / 200 - Scraping https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture
+========================================================================================================================
+Author already recorded.
+Currently recorded 19 books, and 17 authors.
+
+
+
+
+ 19 / 200 - Scraping https://www.goodreads.com/book/show/10284614-the-clean-coder
+========================================================================================================================
+Author already recorded.
+Currently recorded 20 books, and 17 authors.
+
+
+
+
+ 20 / 200 - Scraping https://www.goodreads.com/book/show/18043011-clean-architecture
+========================================================================================================================
+Author already recorded.
+Currently recorded 21 books, and 17 authors.
+
+
+
+
+ 21 / 200 - Scraping https://www.goodreads.com/book/show/23232941-soft-skills
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 22 books, and 18 authors.
+
+
+
+
+ 22 / 200 - Scraping https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs
+========================================================================================================================
+Currently recorded 23 books, and 19 authors.
+
+
+
+
+ 23 / 200 - Scraping https://www.goodreads.com/book/show/6399113-the-passionate-programmer
+========================================================================================================================
+Currently recorded 24 books, and 20 authors.
+
+
+
+
+ 24 / 200 - Scraping https://www.goodreads.com/book/show/105125.Effective_C_
+========================================================================================================================
+Currently recorded 25 books, and 21 authors.
+
+
+
+
+ 25 / 200 - Scraping https://www.goodreads.com/book/show/515601.The_C_Programming_Language
+========================================================================================================================
+Currently recorded 26 books, and 22 authors.
+
+
+
+
+ 26 / 200 - Scraping https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms
+========================================================================================================================
+Currently recorded 27 books, and 23 authors.
+
+
+
+
+ 27 / 200 - Scraping https://www.goodreads.com/book/show/112251.The_C_Programming_Language
+========================================================================================================================
+Currently recorded 28 books, and 24 authors.
+
+
+
+
+ 28 / 200 - Scraping https://www.goodreads.com/book/show/1069827.Release_It_
+========================================================================================================================
+Currently recorded 29 books, and 25 authors.
+
+
+
+
+ 29 / 200 - Scraping https://www.goodreads.com/book/show/582858.Managing_Software_Requirements
+========================================================================================================================
+Currently recorded 30 books, and 26 authors.
+
+
+
+
+ 30 / 200 - Scraping https://www.goodreads.com/book/show/968277.ATL_Internals
+========================================================================================================================
+Currently recorded 31 books, and 27 authors.
+
+
+
+
+ 31 / 200 - Scraping https://www.goodreads.com/book/show/20453509-adopting-the-rational-unified-process
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 32 books, and 28 authors.
+
+
+
+
+ 32 / 200 - Scraping https://www.goodreads.com/book/show/198009.Agility_and_Discipline_Made_Easy
+========================================================================================================================
+Currently recorded 33 books, and 29 authors.
+
+
+
+
+ 33 / 200 - Scraping https://www.goodreads.com/book/show/1007058.Applying_Use_Case_Driven_Object_Modeling_with_UML
+========================================================================================================================
+Currently recorded 34 books, and 30 authors.
+
+
+
+
+ 34 / 200 - Scraping https://www.goodreads.com/book/show/1617464.The_Art_of_Clearcase_Deployment
+========================================================================================================================
+Currently recorded 35 books, and 31 authors.
+
+
+
+
+ 35 / 200 - Scraping https://www.goodreads.com/book/show/380743.The_Art_of_Objects
+========================================================================================================================
+Currently recorded 36 books, and 32 authors.
+
+
+
+
+ 36 / 200 - Scraping https://www.goodreads.com/book/show/462050.Aspect_Oriented_Software_Development_with_Use_Cases
+========================================================================================================================
+Currently recorded 37 books, and 33 authors.
+
+
+
+
+ 37 / 200 - Scraping https://www.goodreads.com/book/show/1657073.Building_J2ee_Applications_with_the_Rational_Unified_Process
+========================================================================================================================
+Currently recorded 38 books, and 34 authors.
+
+
+
+
+ 38 / 200 - Scraping https://www.goodreads.com/book/show/1920160.Building_Web_Applications_with_UML
+========================================================================================================================
+Currently recorded 39 books, and 35 authors.
+
+
+
+
+ 39 / 200 - Scraping https://www.goodreads.com/book/show/428588.Spring_in_Action
+========================================================================================================================
+Currently recorded 40 books, and 36 authors.
+
+
+
+
+ 40 / 200 - Scraping https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview
+========================================================================================================================
+Currently recorded 41 books, and 37 authors.
+
+
+
+
+ 41 / 200 - Scraping https://www.goodreads.com/book/show/6884021-head-first-2d-geometry
+========================================================================================================================
+Currently recorded 42 books, and 38 authors.
+
+
+
+
+ 42 / 200 - Scraping https://www.goodreads.com/book/show/564.Head_First_HTML_with_CSS_XHTML
+========================================================================================================================
+Currently recorded 43 books, and 39 authors.
+
+
+
+
+ 43 / 200 - Scraping https://www.goodreads.com/book/show/231262.Head_First_Java
+========================================================================================================================
+Currently recorded 44 books, and 40 authors.
+
+
+
+
+ 44 / 200 - Scraping https://www.goodreads.com/book/show/1760441.Head_First_JavaScript
+========================================================================================================================
+Currently recorded 45 books, and 41 authors.
+
+
+
+
+ 45 / 200 - Scraping https://www.goodreads.com/book/show/314063.Head_First_Software_Development
+========================================================================================================================
+Currently recorded 46 books, and 42 authors.
+
+
+
+
+ 46 / 200 - Scraping https://www.goodreads.com/book/show/4336592-head-first-web-design
+========================================================================================================================
+Currently recorded 47 books, and 43 authors.
+
+
+
+
+ 47 / 200 - Scraping https://www.goodreads.com/book/show/1863528.Head_First_C_
+========================================================================================================================
+Currently recorded 48 books, and 44 authors.
+
+
+
+
+ 48 / 200 - Scraping https://www.goodreads.com/book/show/2554002.Head_First_Ajax
+========================================================================================================================
+Currently recorded 49 books, and 45 authors.
+
+
+
+
+ 49 / 200 - Scraping https://www.goodreads.com/book/show/3264934-head-first-php-mysql
+========================================================================================================================
+Currently recorded 50 books, and 46 authors.
+
+
+
+
+ 50 / 200 - Scraping https://www.goodreads.com/book/show/231300.Head_First_EJB
+========================================================================================================================
+Author already recorded.
+Currently recorded 51 books, and 46 authors.
+
+
+
+
+ 51 / 200 - Scraping https://www.goodreads.com/book/show/6713575-coders-at-work
+========================================================================================================================
+Currently recorded 52 books, and 47 authors.
+
+
+
+
+ 52 / 200 - Scraping https://www.goodreads.com/book/show/52084.Programming_Pearls
+========================================================================================================================
+Currently recorded 53 books, and 48 authors.
+
+
+
+
+ 53 / 200 - Scraping https://www.goodreads.com/book/show/67825.Peopleware
+========================================================================================================================
+Currently recorded 54 books, and 49 authors.
+
+
+
+
+ 54 / 200 - Scraping https://www.goodreads.com/book/show/582857.More_about_Software_Requirements
+========================================================================================================================
+Currently recorded 55 books, and 50 authors.
+
+
+
+
+ 55 / 200 - Scraping https://www.goodreads.com/book/show/25860.The_Security_Development_Lifecycle
+========================================================================================================================
+Currently recorded 56 books, and 51 authors.
+
+
+
+
+ 56 / 200 - Scraping https://www.goodreads.com/book/show/71672.Thinking_in_Java
+========================================================================================================================
+Currently recorded 57 books, and 52 authors.
+
+
+
+
+ 57 / 200 - Scraping https://www.goodreads.com/book/show/20534354-java-8-in-action
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 58 books, and 53 authors.
+
+
+
+
+ 58 / 200 - Scraping https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns
+========================================================================================================================
+Currently recorded 59 books, and 54 authors.
+
+
+
+
+ 59 / 200 - Scraping https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio
+========================================================================================================================
+Currently recorded 60 books, and 55 authors.
+
+
+
+
+ 60 / 200 - Scraping https://www.goodreads.com/book/show/45280021-clean-agile
+========================================================================================================================
+Author already recorded.
+Currently recorded 61 books, and 55 authors.
+
+
+
+
+ 61 / 200 - Scraping https://www.goodreads.com/book/show/781559.Implementation_Patterns
+========================================================================================================================
+Author already recorded.
+Currently recorded 62 books, and 55 authors.
+
+
+
+
+ 62 / 200 - Scraping https://www.goodreads.com/book/show/13705173-atdd-by-example
+========================================================================================================================
+Currently recorded 63 books, and 56 authors.
+
+
+
+
+ 63 / 200 - Scraping https://www.goodreads.com/book/show/3856.User_Stories_Applied
+========================================================================================================================
+Currently recorded 64 books, and 57 authors.
+
+
+
+
+ 64 / 200 - Scraping https://www.goodreads.com/book/show/349417.Implementing_Lean_Software_Development
+========================================================================================================================
+Currently recorded 65 books, and 58 authors.
+
+
+
+
+ 65 / 200 - Scraping https://www.goodreads.com/book/show/6743843-leading-lean-software-development
+========================================================================================================================
+Author already recorded.
+Currently recorded 66 books, and 58 authors.
+
+
+
+
+ 66 / 200 - Scraping https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design
+========================================================================================================================
+Currently recorded 67 books, and 59 authors.
+
+
+
+
+ 67 / 200 - Scraping https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled
+========================================================================================================================
+Author already recorded.
+Currently recorded 68 books, and 59 authors.
+
+
+
+
+ 68 / 200 - Scraping https://www.goodreads.com/book/show/28321010-kafka
+========================================================================================================================
+Currently recorded 69 books, and 60 authors.
+
+
+
+
+ 69 / 200 - Scraping https://www.goodreads.com/book/show/27968891-site-reliability-engineering
+========================================================================================================================
+Currently recorded 70 books, and 61 authors.
+
+
+
+
+ 70 / 200 - Scraping https://www.goodreads.com/book/show/48816586-software-engineering-at-google
+========================================================================================================================
+Currently recorded 71 books, and 62 authors.
+
+
+
+
+ 71 / 200 - Scraping https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture
+========================================================================================================================
+Currently recorded 72 books, and 63 authors.
+
+
+
+
+ 72 / 200 - Scraping https://www.goodreads.com/book/show/34691716-designing-distributed-systems
+========================================================================================================================
+Currently recorded 73 books, and 64 authors.
+
+
+
+
+ 73 / 200 - Scraping https://www.goodreads.com/book/show/25080953-the-go-programming-language
+========================================================================================================================
+Currently recorded 74 books, and 65 authors.
+
+
+
+
+ 74 / 200 - Scraping https://www.goodreads.com/book/show/17255186-the-phoenix-project
+========================================================================================================================
+Currently recorded 75 books, and 66 authors.
+
+
+
+
+ 75 / 200 - Scraping https://www.goodreads.com/book/show/7003902-97-things-every-programmer-should-know
+========================================================================================================================
+Currently recorded 76 books, and 67 authors.
+
+
+
+
+ 76 / 200 - Scraping https://www.goodreads.com/book/show/41786.Joel_on_Software
+========================================================================================================================
+Currently recorded 77 books, and 68 authors.
+
+
+
+
+ 77 / 200 - Scraping https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures
+========================================================================================================================
+Currently recorded 78 books, and 69 authors.
+
+
+
+
+ 78 / 200 - Scraping https://www.goodreads.com/book/show/8686650-continuous-delivery
+========================================================================================================================
+Currently recorded 79 books, and 70 authors.
+
+
+
+
+ 79 / 200 - Scraping https://www.goodreads.com/book/show/26759355-kubernetes
+========================================================================================================================
+Currently recorded 80 books, and 71 authors.
+
+
+
+
+ 80 / 200 - Scraping https://www.goodreads.com/book/show/9267.Agile_Estimating_and_Planning
+========================================================================================================================
+Author already recorded.
+Currently recorded 81 books, and 71 authors.
+
+
+
+
+ 81 / 200 - Scraping https://www.goodreads.com/book/show/8910666-eloquent-javascript
+========================================================================================================================
+Currently recorded 82 books, and 72 authors.
+
+
+
+
+ 82 / 200 - Scraping https://www.goodreads.com/book/show/148050.JavaScript
+========================================================================================================================
+Currently recorded 83 books, and 73 authors.
+
+
+
+
+ 83 / 200 - Scraping https://www.goodreads.com/book/show/9422683-javascript-patterns
+========================================================================================================================
+Currently recorded 84 books, and 74 authors.
+
+
+
+
+ 84 / 200 - Scraping https://www.goodreads.com/book/show/22221108-you-don-t-know-js
+========================================================================================================================
+Currently recorded 85 books, and 75 authors.
+
+
+
+
+ 85 / 200 - Scraping https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja
+========================================================================================================================
+Currently recorded 86 books, and 76 authors.
+
+
+
+
+ 86 / 200 - Scraping https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited
+========================================================================================================================
+Currently recorded 87 books, and 77 authors.
+
+
+
+
+ 87 / 200 - Scraping https://www.goodreads.com/book/show/25136217-you-don-t-know-js
+========================================================================================================================
+Author already recorded.
+Currently recorded 88 books, and 77 authors.
+
+
+
+
+ 88 / 200 - Scraping https://www.goodreads.com/book/show/20901022-you-don-t-know-js
+========================================================================================================================
+Author already recorded.
+Currently recorded 89 books, and 77 authors.
+
+
+
+
+ 89 / 200 - Scraping https://www.goodreads.com/book/show/13838823-the-lean-entrepreneur
+========================================================================================================================
+Currently recorded 90 books, and 78 authors.
+
+
+
+
+ 90 / 200 - Scraping https://www.goodreads.com/book/show/33369254-the-manager-s-path
+========================================================================================================================
+Currently recorded 91 books, and 79 authors.
+
+
+
+
+ 91 / 200 - Scraping https://www.goodreads.com/book/show/13617432-notes-to-a-software-team-leader
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 92 books, and 80 authors.
+
+
+
+
+ 92 / 200 - Scraping https://www.goodreads.com/book/show/337302.xUnit_Test_Patterns
+========================================================================================================================
+Currently recorded 93 books, and 81 authors.
+
+
+
+
+ 93 / 200 - Scraping https://www.goodreads.com/book/show/3315855-refactoring-html
+========================================================================================================================
+Currently recorded 94 books, and 82 authors.
+
+
+
+
+ 94 / 200 - Scraping https://www.goodreads.com/book/show/224132.Beyond_Software_Architecture
+========================================================================================================================
+Currently recorded 95 books, and 83 authors.
+
+
+
+
+ 95 / 200 - Scraping https://www.goodreads.com/book/show/161302.Refactoring_Databases
+========================================================================================================================
+Currently recorded 96 books, and 84 authors.
+
+
+
+
+ 96 / 200 - Scraping https://www.goodreads.com/book/show/8082269-domain-specific-languages
+========================================================================================================================
+Author already recorded.
+Currently recorded 97 books, and 84 authors.
+
+
+
+
+ 97 / 200 - Scraping https://www.goodreads.com/book/show/85012.Enterprise_Integration_Patterns
+========================================================================================================================
+Currently recorded 98 books, and 85 authors.
+
+
+
+
+ 98 / 200 - Scraping https://www.goodreads.com/book/show/1311542.Continuous_Integration
+========================================================================================================================
+Currently recorded 99 books, and 86 authors.
+
+
+
+
+ 99 / 200 - Scraping https://www.goodreads.com/book/show/10917482-service-design-patterns
+========================================================================================================================
+Currently recorded 100 books, and 87 authors.
+
+
+
+
+ 100 / 200 - Scraping https://www.goodreads.com/book/show/6487349-the-art-of-unit-testing
+========================================================================================================================
+Author already recorded.
+Currently recorded 101 books, and 87 authors.
+
+
+
+
+ 101 / 200 - Scraping https://www.goodreads.com/book/show/6518085-pro-git
+========================================================================================================================
+Currently recorded 102 books, and 88 authors.
+
+
+
+
+ 102 / 200 - Scraping https://www.goodreads.com/book/show/25238425-the-effective-engineer
+========================================================================================================================
+Currently recorded 103 books, and 89 authors.
+
+
+
+
+ 103 / 200 - Scraping https://www.goodreads.com/book/show/548914.The_Little_Schemer
+========================================================================================================================
+Currently recorded 104 books, and 90 authors.
+
+
+
+
+ 104 / 200 - Scraping https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 105 books, and 91 authors.
+
+
+
+
+ 105 / 200 - Scraping https://www.goodreads.com/book/show/703102.Compilers
+========================================================================================================================
+Currently recorded 106 books, and 92 authors.
+
+
+
+
+ 106 / 200 - Scraping https://www.goodreads.com/book/show/41793.Hackers_Painters
+========================================================================================================================
+Currently recorded 107 books, and 93 authors.
+
+
+
+
+ 107 / 200 - Scraping https://www.goodreads.com/book/show/44882.Code
+========================================================================================================================
+Currently recorded 108 books, and 94 authors.
+
+
+
+
+ 108 / 200 - Scraping https://www.goodreads.com/book/show/166195.Modern_Operating_Systems
+========================================================================================================================
+Currently recorded 109 books, and 95 authors.
+
+
+
+
+ 109 / 200 - Scraping https://www.goodreads.com/book/show/24113.G_del_Escher_Bach
+========================================================================================================================
+Currently recorded 110 books, and 96 authors.
+
+
+
+
+ 110 / 200 - Scraping https://www.goodreads.com/book/show/27543.Artificial_Intelligence
+========================================================================================================================
+Currently recorded 111 books, and 97 authors.
+
+
+
+
+ 111 / 200 - Scraping https://www.goodreads.com/book/show/447648.Getting_Real
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 112 books, and 98 authors.
+
+
+
+
+ 112 / 200 - Scraping https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning
+========================================================================================================================
+Author already recorded.
+Currently recorded 113 books, and 98 authors.
+
+
+
+
+ 113 / 200 - Scraping https://www.goodreads.com/book/show/9815906-responsive-web-design
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 114 books, and 99 authors.
+
+
+
+
+ 114 / 200 - Scraping https://www.goodreads.com/book/show/2618.The_Innovator_s_Solution
+========================================================================================================================
+Currently recorded 115 books, and 100 authors.
+
+
+
+
+ 115 / 200 - Scraping https://www.goodreads.com/book/show/8148515-html5-for-web-designers
+========================================================================================================================
+Currently recorded 116 books, and 101 authors.
+
+
+
+
+ 116 / 200 - Scraping https://www.goodreads.com/book/show/9549300-do-more-faster
+========================================================================================================================
+Currently recorded 117 books, and 102 authors.
+
+
+
+
+ 117 / 200 - Scraping https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany
+========================================================================================================================
+Currently recorded 118 books, and 103 authors.
+
+
+
+
+ 118 / 200 - Scraping https://www.goodreads.com/book/show/18197265-a-tour-of-c
+========================================================================================================================
+Author already recorded.
+Currently recorded 119 books, and 103 authors.
+
+
+
+
+ 119 / 200 - Scraping https://www.goodreads.com/book/show/15499449-game-programming-patterns
+========================================================================================================================
+Currently recorded 120 books, and 104 authors.
+
+
+
+
+ 120 / 200 - Scraping https://www.goodreads.com/book/show/768080.C_Primer
+========================================================================================================================
+Currently recorded 121 books, and 105 authors.
+
+
+
+
+ 121 / 200 - Scraping https://www.goodreads.com/book/show/105123.More_Effective_C_
+========================================================================================================================
+Author already recorded.
+Currently recorded 122 books, and 105 authors.
+
+
+
+
+ 122 / 200 - Scraping https://www.goodreads.com/book/show/105124.Effective_STL
+========================================================================================================================
+Author already recorded.
+Currently recorded 123 books, and 105 authors.
+
+
+
+
+ 123 / 200 - Scraping https://www.goodreads.com/book/show/22800553-effective-modern-c
+========================================================================================================================
+Author already recorded.
+Currently recorded 124 books, and 105 authors.
+
+
+
+
+ 124 / 200 - Scraping https://www.goodreads.com/book/show/166190.Computer_Networks
+========================================================================================================================
+Author already recorded.
+Currently recorded 125 books, and 105 authors.
+
+
+
+
+ 125 / 200 - Scraping https://www.goodreads.com/book/show/83847.Computer_Networking
+========================================================================================================================
+Currently recorded 126 books, and 106 authors.
+
+
+
+
+ 126 / 200 - Scraping https://www.goodreads.com/book/show/829182.Computer_Systems
+========================================================================================================================
+Currently recorded 127 books, and 107 authors.
+
+
+
+
+ 127 / 200 - Scraping https://www.goodreads.com/book/show/11724436-the-linux-command-line
+========================================================================================================================
+Currently recorded 128 books, and 108 authors.
+
+
+
+
+ 128 / 200 - Scraping https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual
+========================================================================================================================
+Currently recorded 129 books, and 109 authors.
+
+
+
+
+ 129 / 200 - Scraping https://www.goodreads.com/book/show/10803540-algorithms
+========================================================================================================================
+Currently recorded 130 books, and 110 authors.
+
+
+
+
+ 130 / 200 - Scraping https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning
+========================================================================================================================
+Currently recorded 131 books, and 111 authors.
+
+
+
+
+ 131 / 200 - Scraping https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning
+========================================================================================================================
+Currently recorded 132 books, and 112 authors.
+
+
+
+
+ 132 / 200 - Scraping https://www.goodreads.com/book/show/24072897-deep-learning
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 133 books, and 113 authors.
+
+
+
+
+ 133 / 200 - Scraping https://www.goodreads.com/book/show/603263.Advanced_Programming_in_the_UNIX_Environment
+========================================================================================================================
+Currently recorded 134 books, and 114 authors.
+
+
+
+
+ 134 / 200 - Scraping https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1
+========================================================================================================================
+Currently recorded 135 books, and 115 authors.
+
+
+
+
+ 135 / 200 - Scraping https://www.goodreads.com/book/show/35747076-accelerate
+========================================================================================================================
+Currently recorded 136 books, and 116 authors.
+
+
+
+
+ 136 / 200 - Scraping https://www.goodreads.com/book/show/49021976-rhythm-of-war
+========================================================================================================================
+Currently recorded 137 books, and 117 authors.
+
+
+
+
+ 137 / 200 - Scraping https://www.goodreads.com/book/show/1118059.National_Lampoon_s_Doon
+========================================================================================================================
+Currently recorded 138 books, and 118 authors.
+
+
+
+
+ 138 / 200 - Scraping https://www.goodreads.com/book/show/10361330-html-and-css
+========================================================================================================================
+Currently recorded 139 books, and 119 authors.
+
+
+
+
+ 139 / 200 - Scraping https://www.goodreads.com/book/show/173346.Sams_Teach_Yourself_SQL_in_10_Minutes
+========================================================================================================================
+Currently recorded 140 books, and 120 authors.
+
+
+
+
+ 140 / 200 - Scraping https://www.goodreads.com/book/show/17835351-nikola-tesla
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 141 books, and 121 authors.
+
+
+
+
+ 141 / 200 - Scraping https://www.goodreads.com/book/show/333538.The_Castle
+========================================================================================================================
+Currently recorded 142 books, and 122 authors.
+
+
+
+
+ 142 / 200 - Scraping https://www.goodreads.com/book/show/4461515-designing-object-oriented-user-interfaces
+========================================================================================================================
+Currently recorded 143 books, and 123 authors.
+
+
+
+
+ 143 / 200 - Scraping https://www.goodreads.com/book/show/32737249-spring-microservices-in-action
+========================================================================================================================
+Currently recorded 144 books, and 124 authors.
+
+
+
+
+ 144 / 200 - Scraping https://www.goodreads.com/book/show/34372564-microservice-patterns
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 145 books, and 125 authors.
+
+
+
+
+ 145 / 200 - Scraping https://www.goodreads.com/book/show/27126867-elements-of-programming-interviews-in-java
+========================================================================================================================
+Currently recorded 146 books, and 126 authors.
+
+
+
+
+ 146 / 200 - Scraping https://www.goodreads.com/book/show/16253895-elements-of-programming-interviews
+========================================================================================================================
+Author already recorded.
+Currently recorded 147 books, and 126 authors.
+
+
+
+
+ 147 / 200 - Scraping https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python
+========================================================================================================================
+Author already recorded.
+Currently recorded 148 books, and 126 authors.
+
+
+
+
+ 148 / 200 - Scraping https://www.goodreads.com/book/show/32499926-le-grand-roman-des-maths
+========================================================================================================================
+Currently recorded 149 books, and 127 authors.
+
+
+
+
+ 149 / 200 - Scraping https://www.goodreads.com/book/show/316275.Computational_Geometry
+========================================================================================================================
+Currently recorded 150 books, and 128 authors.
+
+
+
+
+ 150 / 200 - Scraping https://www.goodreads.com/book/show/46036586-github-for-dummies
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 151 books, and 129 authors.
+
+
+
+
+ 151 / 200 - Scraping https://www.goodreads.com/book/show/34927488-big-data
+========================================================================================================================
+Currently recorded 152 books, and 130 authors.
+
+
+
+
+ 152 / 200 - Scraping https://www.goodreads.com/book/show/517233.Introduction_to_Probability
+========================================================================================================================
+Currently recorded 153 books, and 131 authors.
+
+
+
+
+ 153 / 200 - Scraping https://www.goodreads.com/book/show/5115533-statistics
+========================================================================================================================
+Currently recorded 154 books, and 132 authors.
+
+
+
+
+ 154 / 200 - Scraping https://www.goodreads.com/book/show/13185350-minimalism
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 155 books, and 133 authors.
+
+
+
+
+ 155 / 200 - Scraping https://www.goodreads.com/book/show/15788121-var-olan-ada
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 156 books, and 134 authors.
+
+
+
+
+ 156 / 200 - Scraping https://www.goodreads.com/book/show/11740089-per-sempre
+========================================================================================================================
+Author already recorded.
+Currently recorded 157 books, and 134 authors.
+
+
+
+
+ 157 / 200 - Scraping https://www.goodreads.com/book/show/25893179-alparslan-zaferler-a
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 158 books, and 135 authors.
+
+
+
+
+ 158 / 200 - Scraping https://www.goodreads.com/book/show/33397540-bozkurt-destan-han-a-ina
+========================================================================================================================
+This ISBN of the book is not applicable.
+Author already recorded.
+Currently recorded 159 books, and 135 authors.
+
+
+
+
+ 159 / 200 - Scraping https://www.goodreads.com/book/show/649718.Secret_Societies
+========================================================================================================================
+Currently recorded 160 books, and 136 authors.
+
+
+
+
+ 160 / 200 - Scraping https://www.goodreads.com/book/show/48592922-i-fa-i-nsan-n-fabrika-ayarlar-1-kitap-beden
+========================================================================================================================
+Currently recorded 161 books, and 137 authors.
+
+
+
+
+ 161 / 200 - Scraping https://www.goodreads.com/book/show/17803.After_Dark
+========================================================================================================================
+Currently recorded 162 books, and 138 authors.
+
+
+
+
+ 162 / 200 - Scraping https://www.goodreads.com/book/show/21525380-the-barbarian-empires-of-the-steppes
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 163 books, and 139 authors.
+
+
+
+
+ 163 / 200 - Scraping https://www.goodreads.com/book/show/25246544-adventures-in-human-being
+========================================================================================================================
+Currently recorded 164 books, and 140 authors.
+
+
+
+
+ 164 / 200 - Scraping https://www.goodreads.com/book/show/44439946-exercises-for-bad-posture
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 165 books, and 141 authors.
+
+
+
+
+ 165 / 200 - Scraping https://www.goodreads.com/book/show/80435.Learning_Python
+========================================================================================================================
+Currently recorded 166 books, and 142 authors.
+
+
+
+
+ 166 / 200 - Scraping https://www.goodreads.com/book/show/16219704-javascript-and-jquery
+========================================================================================================================
+Author already recorded.
+Currently recorded 167 books, and 142 authors.
+
+
+
+
+ 167 / 200 - Scraping https://www.goodreads.com/book/show/20666969-web-design-with-html-css-javascript-and-jquery-set
+========================================================================================================================
+Author already recorded.
+Currently recorded 168 books, and 142 authors.
+
+
+
+
+ 168 / 200 - Scraping https://www.goodreads.com/book/show/6649292-css
+========================================================================================================================
+Currently recorded 169 books, and 143 authors.
+
+
+
+
+ 169 / 200 - Scraping https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 170 books, and 144 authors.
+
+
+
+
+ 170 / 200 - Scraping https://www.goodreads.com/book/show/32443.The_Eyes_of_Darkness
+========================================================================================================================
+Currently recorded 171 books, and 145 authors.
+
+
+
+
+ 171 / 200 - Scraping https://www.goodreads.com/book/show/40985912-php-mysql
+========================================================================================================================
+Author already recorded.
+Currently recorded 172 books, and 145 authors.
+
+
+
+
+ 172 / 200 - Scraping https://www.goodreads.com/book/show/22221109-you-don-t-know-js
+========================================================================================================================
+Author already recorded.
+Currently recorded 173 books, and 145 authors.
+
+
+
+
+ 173 / 200 - Scraping https://www.goodreads.com/book/show/174174.Cold_Skin
+========================================================================================================================
+Currently recorded 174 books, and 146 authors.
+
+
+
+
+ 174 / 200 - Scraping https://www.goodreads.com/book/show/25539865
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 175 books, and 147 authors.
+
+
+
+
+ 175 / 200 - Scraping https://www.goodreads.com/book/show/296399.A_Story_about_a_Real_Man
+========================================================================================================================
+Currently recorded 176 books, and 148 authors.
+
+
+
+
+ 176 / 200 - Scraping https://www.goodreads.com/book/show/226378.A_Hero_of_Our_Time
+========================================================================================================================
+Currently recorded 177 books, and 149 authors.
+
+
+
+
+ 177 / 200 - Scraping https://www.goodreads.com/book/show/34606387
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 178 books, and 150 authors.
+
+
+
+
+ 178 / 200 - Scraping https://www.goodreads.com/book/show/13500371-weird-science-for-kids
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 179 books, and 151 authors.
+
+
+
+
+ 179 / 200 - Scraping https://www.goodreads.com/book/show/23241059-python-crash-course
+========================================================================================================================
+Currently recorded 180 books, and 152 authors.
+
+
+
+
+ 180 / 200 - Scraping https://www.goodreads.com/book/show/11448757-castle
+========================================================================================================================
+Currently recorded 181 books, and 153 authors.
+
+
+
+
+ 181 / 200 - Scraping https://www.goodreads.com/book/show/22221110-you-don-t-know-js
+========================================================================================================================
+Author already recorded.
+Currently recorded 182 books, and 153 authors.
+
+
+
+
+ 182 / 200 - Scraping https://www.goodreads.com/book/show/5608045-apprenticeship-patterns
+========================================================================================================================
+Currently recorded 183 books, and 154 authors.
+
+
+
+
+ 183 / 200 - Scraping https://www.goodreads.com/book/show/37502596-the-5-am-club
+========================================================================================================================
+Currently recorded 184 books, and 155 authors.
+
+
+
+
+ 184 / 200 - Scraping https://www.goodreads.com/book/show/7789280-c-in-depth
+========================================================================================================================
+Currently recorded 185 books, and 156 authors.
+
+
+
+
+ 185 / 200 - Scraping https://www.goodreads.com/book/show/7048818-how-an-economy-grows-and-why-it-crashes
+========================================================================================================================
+Currently recorded 186 books, and 157 authors.
+
+
+
+
+ 186 / 200 - Scraping https://www.goodreads.com/book/show/40542772-nginx-cookbook
+========================================================================================================================
+Currently recorded 187 books, and 158 authors.
+
+
+
+
+ 187 / 200 - Scraping https://www.goodreads.com/book/show/11135572-agile-project-management-for-dummies
+========================================================================================================================
+Currently recorded 188 books, and 159 authors.
+
+
+
+
+ 188 / 200 - Scraping https://www.goodreads.com/book/show/4495579-is-it-you-me-or-adult-add-stopping-the-roller-coaster-when-someone-yo
+========================================================================================================================
+Currently recorded 189 books, and 160 authors.
+
+
+
+
+ 189 / 200 - Scraping https://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book
+========================================================================================================================
+Currently recorded 190 books, and 161 authors.
+
+
+
+
+ 190 / 200 - Scraping https://www.goodreads.com/book/show/40014285-head-first-kotlin
+========================================================================================================================
+Currently recorded 191 books, and 162 authors.
+
+
+
+
+ 191 / 200 - Scraping https://www.goodreads.com/book/show/18596230-javascript-for-kids
+========================================================================================================================
+Currently recorded 192 books, and 163 authors.
+
+
+
+
+ 192 / 200 - Scraping https://www.goodreads.com/book/show/14662.The_Red_and_the_Black
+========================================================================================================================
+Currently recorded 193 books, and 164 authors.
+
+
+
+
+ 193 / 200 - Scraping https://www.goodreads.com/book/show/1391817.The_Minds_of_Billy_Milligan
+========================================================================================================================
+Currently recorded 194 books, and 165 authors.
+
+
+
+
+ 194 / 200 - Scraping https://www.goodreads.com/book/show/161299.Database_Systems
+========================================================================================================================
+Currently recorded 195 books, and 166 authors.
+
+
+
+
+ 195 / 200 - Scraping https://www.goodreads.com/book/show/20739796-the-stone-man-the-stone-man-1---a-science-fiction-thriller
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 196 books, and 167 authors.
+
+
+
+
+ 196 / 200 - Scraping https://www.goodreads.com/book/show/19193321-an-introduction-to-enterprise-architecture
+========================================================================================================================
+This ISBN of the book is not applicable.
+Currently recorded 197 books, and 168 authors.
+
+
+
+
+ 197 / 200 - Scraping https://www.goodreads.com/book/show/819202.Practical_Research
+========================================================================================================================
+Currently recorded 198 books, and 169 authors.
+
+
+
+
+ 198 / 200 - Scraping https://www.goodreads.com/book/show/149075.The_Nine_Billion_Names_of_God
+========================================================================================================================
+Currently recorded 199 books, and 170 authors.
+
+
+
+
+ 199 / 200 - Scraping https://www.goodreads.com/book/show/567858.Reading_and_Understanding_Research
+========================================================================================================================
+Currently recorded 200 books, and 171 authors.
+
+C:\Users\pixin\Desktop\CS242\sp21-cs242-assignment2\src>
+C:\Users\pixin\Desktop\CS242\sp21-cs242-assignment2\src>python main.py export --db all
+Successfully dumped book_db.json to ../JSON/book_db.json
+Successfully dumped author_db.json to ../JSON/author_db.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

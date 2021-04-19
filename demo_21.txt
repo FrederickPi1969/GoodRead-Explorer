@@ -1,0 +1,104 @@
+[Run with Chrome] - Remote server, interpreter functionality
+    ######   Get with ID   ######
+    1. http://130.126.112.40/  (data mining group home)
+    2. http://130.126.112.40:5000/api/book?_id=3735293  (Book with id 3735293)
+    3. http://130.126.112.40:5000/api/author?_id=2815 (Author with id 2815)
+    4. http://130.126.112.40:5000/api/author? (Bad request handling - 400)
+    5. http://130.126.112.40:5000/api/author?_id=121231123 (Non existing, return empty json)
+    
+
+
+    ###### Get with elastic search  ######
+    1. Basic - book author IS Martin Fowler
+    http://130.126.112.40:5000/api/search?q=book.author_name%20:%20%22Martin%20Fowler%22
+
+    2. NOT operator - book author IS NOT Martin Fowler, search with CTRL + F !
+    http://130.126.112.40:5000/api/search?q=book.author_name%20:%20NOT%20%22Martin%20Fowler%22
+
+    3. OR operator - authors whose review_count < 50 or rating_count < 100
+    http://130.126.112.40:5000/api/search?q=author.review_count%20:%20%3C%2050%20OR%20author.rating_count%20:%20%3C%20100
+    
+    4. AND operator - authors whose rating_count > 8000 but < 12000
+    http://130.126.112.40:5000/api/search?q=author.rating_count%20:%20%3E%208000%20AND%20author.rating_count%20:%20%3C%2012000
+
+    5. Wildcard in query attr - any counts with value equal to 125
+    http://130.126.112.40:5000/api/search?q=book.*count%20:%20%22125%22 
+    
+    6. Single Wildcard in query value - All books whose author's first name is "David"
+    http://130.126.112.40:5000/api/search?q=book.author_name%20:%20%22David*%22 
+
+    7. Double Wildcards in query value - All books whose name includes "Learning"
+    http://130.126.112.40:5000/api/search?q=book.book_title%20:%20%22*Learning*%22 
+    
+    8. Books that either author's name starts with "Martin" or have rating_value > 4.5
+    http://130.126.112.40:5000/api/search?q=book.author_name%20:%20%22Martin*%22%20OR%20book.rating_value%20:%20%3E%204.5
+    
+    9. Bad query string - status code 400, missing ":"
+    http://130.126.112.40:5000/api/search?q=book.rating_value%20%3E%204.50
+
+
+
+[Run with Local Frontend GUI]
+    
+    ###### Search with ID ######
+    1. Book 3735293
+    2. Invalid ID (Empty JSON returned)
+    3. Blank Input (parser error)
+    4. Show source code.
+
+    ###### Elastic Search ######
+    1. Success: book.rating_value : "4.5*"  OR  book.rating_value : "4.6*"
+    2. Arbitrary white spaces:    book._id     :         "3735293"   
+    3. Every other works the same as in Chrome
+    4. Invalid query string get assertion error:    book._id  "3735293"  
+    5. Show Test Cases and Source Code!!!!!!!!!!!
+
+    ###### Update ######
+    1. Update non-existing id should be bad request
+    2. Attempt to change attr "_id" should be blocked
+    3. Uploading non-parsable JSON should be blocked
+    4. Uploading JSON containing non-existing attributes {"a" : "b"}
+    5. Modifying book (id 3735293)'s book_url to "www.duckduckgo.com" and check database
+    6. Show test case where 415 should be returned for non-json application 
+    
+
+    ###### Delete and Upload ######
+    1. Delete book with id "abc", get bad request - 400
+    2. Delete book with id 3735293, check disappears in database
+    3. Upload legal one book - 3735293 check re-appear in database 
+    4. Bad operation - upload one book with upload_many as true 
+    5. Bad operation - upload many books with upload_many as false
+    6. Bad uploading file - JSON with missing keys - book_miss_book_url, author_miss_related_author
+    7. Show 415 in test case where content is not JSON.
+    8. Show 400 in test case where empty JSON is passed.
+    9. Show source code!
+
+
+
+    ###### Scrape ######
+    1. Negative, String, Float max_author/book
+    2. Bad URL
+    3. Scrape one book - set max_book as 249, max_author as default
+    4. Show source code!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    cursor: pointer;
+}
+  
+.pagination a {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #6c7ac9;
+  color: #6c7ac9;
+}
+
+.pagination__link {
+  font-weight: bold;
+}
+
+.pagination__link--active a {
+  color: #fff;
+  background: #6c7ac9;
+}
+
+.pagination__link--disabled a {
+  color: rgb(198, 197, 202);
+  border: 1px solid rgb(198, 197, 202);
+}
+  
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: "Comic Sans MS";
+}
+
+input[type=submit] {
+    width: 40%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 2% 0 0 30%;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: "Comic Sans MS";
+}
+
+
+
+button {
+  display: block;
+  border-radius: 4px;
+  background-color: #1e7bf4;
+  border: none;
+  color: #FFFFFF;
+  font-size: auto;
+  padding: 10px;
+  width: 30%;
+  transition: all 0.5s;
+  cursor: pointer;
+  text-align: center;
+  margin: 2% auto;
+  font-family: "Comic Sans MS";
+  overflow: auto;
+}
+
+
+button:hover {
+  background-color: #1ef4f4;
+}
+
+body {
+  font-family: "Comic Sans MS";
+  background-image: url('http://localhost:3000/background.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+tbody {
+  background: rgb(255, 255, 255);
+}
+
+td {
+  font-family: "Comic Sans MS";
+  min-width: 200px;
+  min-height: 40px;
+}
+
+.center {
+  text-align: center;
+}
+
+.page_center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+#x_tick:hover {
+  color: lime;
+  text-decoration: underline;
+}
+
+#slider_container {
+  position: fixed;
+  margin: 0 30%;
+  width: 40%;
+}
